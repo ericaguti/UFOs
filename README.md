@@ -2,6 +2,10 @@
 The purpose of this analysis is to provide a more in-depth analysis of UFO sighting that allows the user to filter the sighting by a few criterias at the same time. Using JavaScript and HTML to create a table that is able to filter throught sightings by keywords, such as date, city, state, country and state.  
 
 ## Results 
+
+Click [here](https://ericaguti.github.io/UFOs/) to go to the webpage. 
+
+
 Once navigating to the web page, you can search for a particualr sighting of UFO's. 
 You must know a few search parameter to have a successful search, to narrow your search you only need to know one of these parameters:
 - Date
